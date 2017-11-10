@@ -1,4 +1,6 @@
-# React Webpack Babel Starter
+# Modified from React Webpack Babel Starter as starter for my personal uses on learning REACT
+# Integrated Material UI
+# React Webpack Babel Starter 
 Minimal starter kit with hot module replacement (HMR) for rapid development.
 
 * **[React](https://facebook.github.io/react/)** (15.x)
