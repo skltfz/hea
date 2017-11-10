@@ -11,7 +11,7 @@ class AboutUs extends React.Component {
                         role: "designer"
                     }, {
                         fullname: "sam mak",
-                        role: "developer"
+                        role: "developer the god"
                     }
                 ]
             }
